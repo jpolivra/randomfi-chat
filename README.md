@@ -1,2 +1,1 @@
-# randomfi-chat
-A real time chat.
+# Random-Fi Real Time Chat
